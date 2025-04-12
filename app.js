@@ -3,7 +3,7 @@ let myName = "Kpamor Raphael";
 let myAge = 33;
 let myNationality = "Nigerian";
 
-// Logging a sentence that introduces the me using template literals
+// Logging a sentence that introduces me using template literals
 console.log(`My name is ${myName}, I am ${myAge} years old and I am ${myNationality}.`);
 
 // Declaring a constant string for my favorite quote
@@ -52,5 +52,6 @@ var jssTwo = ["Obinna", "Adebayo", "Rukayya", "Usman", "Temilorun", "Nneka", "Mo
 var jssThree = ["Shehu", "Abdullahi", "Zainab", "Amarachi", "Yetunde", "Ifeanyi", "Chukwudi", "Ayodele", "Bayo", "Amina"]; // Students in JSS Three
 
 
-
-
+console.log(jssOne); // Logs the students in JSS One
+console.log(jssTwo); // Logs the students in JSS Two
+console.log(jssThree); // Logs the students in JSS Three
